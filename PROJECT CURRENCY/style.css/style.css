@@ -1,0 +1,32 @@
+style.css
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.converter {
+    text-align: center;
+    margin: 20px auto;
+}
+
+input[type="number"] {
+    width: 100px;
+    padding: 5px;
+}
+
+select {
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+#result {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
